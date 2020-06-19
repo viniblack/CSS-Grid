@@ -5,9 +5,9 @@
 .populares__card {
   background: #fdfdfd;
   display: grid;
-  grid-template-areas: 
-      "card-imagem"
-      "card-corpo";
+  grid-template-areas:
+    "card-imagem"
+    "card-corpo";
   grid-template-columns: 100%;
   grid-template-rows: 173px auto;
   margin-right: 1rem;
@@ -75,7 +75,7 @@
   color: #333333;
 }
 
-.populares__card:last-child { 
+.populares__card:last-child {
   margin-right: 0;
 }
 
